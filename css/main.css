@@ -6,12 +6,12 @@
 }
 #a {
     z-index: 0;
-    background: url(fundo.png);
+    background: url(../fundo.png);
     background-size: cover;
 }
 #b {
     z-index: 1;
-    background: url(fundo-blur.png);
+    background: url(../fundo-blur.png);
     background-size: cover;
 }
 #c {
